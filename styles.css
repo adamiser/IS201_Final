@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  background-image: url("/assets/mathnasium_background.jpg");
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.main-page {
+    background-image: url("assets/mathnasium_background.jpg");
+    background-size: cover;
+}
+
+.main-page-header {
+    text-align: center;
+    color: orangered;
+}
+
+.heading {
+    text-align: center;
+    font-family: fantasy;
+}
+
+.video {
+    border: 1px color #000;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
